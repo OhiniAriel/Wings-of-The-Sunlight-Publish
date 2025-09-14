@@ -15,4 +15,4 @@
 他にもデバッグ機能は残しています。メイドインヘブンを起動するやつがあったりテストマップにいくやつだったり。
 
 # ダウンロードしたいかい？
-[だったらここをクリックしてみなよ](https://github.com/OhiniAriel/Wings-of-The-Sunlight/releases/latest)
+[だったらここをクリックしてみなよ](https://github.com/OhiniAriel/Wings-of-The-Sunlight-Publish/releases/latest)
